@@ -1,0 +1,16 @@
+S:\Balta.io\Calculator\bin\Debug\net5.0\Calculator.exe
+S:\Balta.io\Calculator\bin\Debug\net5.0\Calculator.deps.json
+S:\Balta.io\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.json
+S:\Balta.io\Calculator\bin\Debug\net5.0\Calculator.runtimeconfig.dev.json
+S:\Balta.io\Calculator\bin\Debug\net5.0\Calculator.dll
+S:\Balta.io\Calculator\bin\Debug\net5.0\ref\Calculator.dll
+S:\Balta.io\Calculator\bin\Debug\net5.0\Calculator.pdb
+S:\Balta.io\Calculator\obj\Debug\net5.0\Calculator.csproj.AssemblyReference.cache
+S:\Balta.io\Calculator\obj\Debug\net5.0\Calculator.GeneratedMSBuildEditorConfig.editorconfig
+S:\Balta.io\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfoInputs.cache
+S:\Balta.io\Calculator\obj\Debug\net5.0\Calculator.AssemblyInfo.cs
+S:\Balta.io\Calculator\obj\Debug\net5.0\Calculator.csproj.CoreCompileInputs.cache
+S:\Balta.io\Calculator\obj\Debug\net5.0\Calculator.dll
+S:\Balta.io\Calculator\obj\Debug\net5.0\ref\Calculator.dll
+S:\Balta.io\Calculator\obj\Debug\net5.0\Calculator.pdb
+S:\Balta.io\Calculator\obj\Debug\net5.0\Calculator.genruntimeconfig.cache
